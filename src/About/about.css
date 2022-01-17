@@ -1,0 +1,22 @@
+.about{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-heading{
+    flex: 30%;
+}
+
+.about-para{
+    flex: 70%;
+    background-color: lightgray;
+    padding: 3% 0;
+}
+
+.down{
+    margin-top: 3% !important;
+}

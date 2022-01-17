@@ -1,0 +1,13 @@
+.portcards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    color: #fff;
+    margin: 0 auto !important;
+
+}
+.cardss{
+    padding-bottom: 9vw;
+}

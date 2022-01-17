@@ -1,0 +1,20 @@
+.footer{
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(255, 233, 233) !important;
+}
+   
+.anchors{
+    text-decoration: none;
+    color: #fff;
+}
+
+.anchors:hover{
+color:#60a3bc
+} 
+
+.cont{
+    margin-bottom: 3% !important;
+}

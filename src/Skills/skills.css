@@ -1,0 +1,45 @@
+/* .skills{
+    height: 92vh;
+} */
+.my-focus {
+  padding-left: 5vw;
+  margin-left: 5vw !important;
+  font-size: 1.3rem;
+}
+
+.progress-focus {
+  display: grid;
+  grid-template-columns: 30% 20% 50%;
+  padding-bottom: 7%;
+}
+
+.lab {
+  display: grid;
+  grid-template-columns: auto;
+  border-left: 2px solid gray;
+}
+
+.prog {
+  margin-right: 5% !important;
+  display: grid;
+  grid-template-columns: auto;
+}
+
+.skills-heading,
+.skills-para,
+.progress-focus {
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.My {
+  width: 100%;
+}
+.My::after {
+  display: inline-block;
+  content: "";
+  border-top: 0.2rem solid #fff;
+  width: 8rem;
+  /* margin: 0 1rem !important; */
+  /* transform: translateY(-1rem); */
+}
