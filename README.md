@@ -1,3 +1,39 @@
+# Personal Portfolio using React
+
+## Introduction
+- This **React** application is just an intro for learning `React`
+- It consists of a Navigation Bar, Hero section, Skills section, Portfolio section, and a Footer
+- Bootstrap-React package is used for implementing different elements and components
+- The app consists of multiple components for each section which are rendered back to back
+
+## Screenshots for each section
+
+### - Navigation Bar and Hero Section
+
+![NavHero](images/NavbarHero.png)
+
+- The Download **Resume button** downloads my CV
+
+### - Skills Section
+
+![Skills](images/Skills.png)
+
+- The Progress Bar and Labels beside it were made using list-keys and props for passing data and make **reusable components** using **map()** function of arrays
+
+### - Portfolio section
+
+![Portfolio](images/Portfolio.png)
+
+- It contains the achievements of user in these specific tracks
+- This **Card** component is made by **reusable components** as well
+
+### - Footer
+
+![Footer](images/Footer.png)
+
+- It contains social media accounts of user, email and phone number contacts
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
